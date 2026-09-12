@@ -23,7 +23,7 @@ A business decides how much of the phone to hand over. **All calls** makes Swift
 
 SwiftGuard is built and run by [Daan van den Bergh](https://swiftguard.ai/about) from Bilthoven, the Netherlands, and launched in 2026. It serves plumbing and heating businesses across Europe; call forwarding is available for Dutch phone lines today, with more countries to follow.
 
-Elsewhere: [LinkedIn](https://www.linkedin.com/company/swiftguard-ai) · [X](https://x.com/SwiftGuardAI) · [Instagram](https://www.instagram.com/swiftguardai) · [Threads](https://www.threads.com/@swiftguardai) · [Facebook](https://www.facebook.com/profile.php?id=61592407479166) · [Crunchbase](https://www.crunchbase.com/organization/swiftguard)
+Elsewhere: [LinkedIn](https://www.linkedin.com/company/swiftguard-ai) · [X](https://x.com/SwiftGuardAI) · [Bluesky](https://bsky.app/profile/swiftguard.ai) · [Instagram](https://www.instagram.com/swiftguardai) · [Threads](https://www.threads.com/@swiftguardai) · [Facebook](https://www.facebook.com/profile.php?id=61592407479166) · [Crunchbase](https://www.crunchbase.com/organization/swiftguard)
 
 ## About this organization
 
